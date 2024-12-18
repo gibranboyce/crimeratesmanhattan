@@ -15,6 +15,9 @@ h4{
     color: black
     font-family: georgia;
 }
+caption{
+        padding-top: 5px;
+}
 html, body {
     padding-top: 5px;
     padding-bottom: 5px;
